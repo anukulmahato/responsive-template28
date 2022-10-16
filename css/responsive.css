@@ -1,0 +1,62 @@
+
+@media (max-width: 992px) {
+    .orderd {
+        order: -1 !important;
+        text-align: center;
+    }
+    .orderd img{
+        width: 60%;
+    }
+
+    .hero_left_text {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .about_img {
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .about_details {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .service_item {
+        width: 62%;
+        margin:auto;
+        margin-bottom: 30px;
+    }
+
+    .team_item {
+        margin-bottom: 80px;
+    }
+
+    .contact_right_info {
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .counter_num_item h2 {
+        font-size: 42px;
+        font-weight: 600;
+    }
+    .counter_num_item {
+        margin-bottom: 26px;
+    }
+
+    .counter_num_item p {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 576px) {
+    .service_item {
+        width: 100%;
+        margin:auto;
+        margin-bottom: 30px;
+    }
+}

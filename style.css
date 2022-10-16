@@ -1,0 +1,118 @@
+img{
+    max-width: 100%;
+}
+/* hero Section Starts */
+.hero{
+    background: #f9f9ff;
+}
+.hero_left_text {
+    margin-top: 100px;
+}
+.hero_left_text h4 {
+    font-size: 18px;
+}
+.hero_left_text h1 {
+    color: #343a40;
+}
+.hero_left_text p{}
+
+.hero_btn .btn{}
+.hero img{
+    width: 75%;
+}
+
+.hero_btn .btn-primary, .about_btn .btn-primary {
+    background: #8490ff !important;
+    border: 1px solid #8490ff !important;
+    transition: .3s !important;
+}
+.hero_btn .btn-primary:hover,.about_btn .btn-primary:hover {
+    background: #6d7bff !important;
+    border: 1px solid #6d7bff !important;
+}
+
+
+/* hero Section Ends */
+
+/* About Section Starts */
+.about_img{
+    margin-right: 60px
+}
+/* About Section ends */
+
+/* Counter Section Starts */
+.number_counter{
+    background: #8490ff;
+}
+/* Counter Section Ends */
+
+/* Service Section STarts */
+.service{
+    background: #f9f9ff;
+    margin-bottom: 50px;
+}
+.service_item{}
+.service_item h1 {
+    background: rgb(245 243 243);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    line-height: 80px;
+    margin: auto;
+    font-size: 28px;
+}
+.service_item h2 {
+    font-size: 22px;
+}
+.service_item p {
+    font-weight: 500;
+}
+.service_item ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+.service_item ul li {
+    font-size: 20px;
+    display: inline-block;
+    padding: 15px 0;
+    font-weight: 500;
+}
+.service_btn{}
+.service_btn .btn{}
+/* Service Section Ends */
+
+/* ---- team Section---- */
+.team_item{
+    position: relative;
+}
+.team_item img {
+    width: 80px;
+    position: absolute;
+    top: -52px;
+    left: 20px;
+}
+
+/* Contact section Starts */
+.contact{
+    background: #f9f9ff;
+}
+
+.contact_right_info {
+    margin-top: 62px;
+}
+.contact_right_info h2 {
+    font-size: 30px;
+    font-weight: 400;
+}
+.contact_right_info p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.contact_right_info span{}
+/* Contact section Ends */
+
+/* Footer Section Starts */
+.footer{
+    background: #04091e;
+}
+/* Footer Section Ends */
